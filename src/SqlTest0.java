@@ -29,4 +29,3 @@ ON user.user_id = user_area.user_id
 ;
 */
 
-		

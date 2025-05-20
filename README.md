@@ -1,2 +1,2 @@
-# java_study_2024
+# java_study_2024_03_SQLtest
 java_study_2024
